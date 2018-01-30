@@ -1,0 +1,1 @@
+Your configuration has been deployed into the secret named: {{ template "sampleapp.fullname" . }}

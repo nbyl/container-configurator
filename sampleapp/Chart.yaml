@@ -1,0 +1,4 @@
+apiVersion: v1
+description: Deploys the configuration into secrets.
+name: container-configurator
+version: 0.1.0
